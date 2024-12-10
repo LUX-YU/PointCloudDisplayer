@@ -1,0 +1,2 @@
+static inline const char* vertex_shader_path   = "@VERTEX_SHADER_PATH@";
+static inline const char* fragment_shader_path = "@FRAGMENT_SHADER_PATH@";
